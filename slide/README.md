@@ -7,3 +7,5 @@
 ## Ambient Intelligence
 * [Definitions of Ambient Intelligence](AmI-01-definition.pdf)
 
+## Python
+* [Python basics](Python-01-basics.pdf)
