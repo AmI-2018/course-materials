@@ -3,6 +3,8 @@
 ## Introduction
 * [Introduction to the course](Intro-01-course-intro-2018.pdf)
 * [Theme of the year 2018](Intro-02-project-theme-2018.pdf)
+* [Projects and groups evaluation results](Intro-03-projects-groups.pdf)
+    * [Detailed comments and results](https://docs.google.com/spreadsheets/d/1gFsi_kk7qrKwoX7bgFU9iPldWtOs-Iwoenyzql4oBcQ/edit?usp=sharing)
 
 ## Ambient Intelligence
 * [Definitions of Ambient Intelligence](AmI-01-definition.pdf)
