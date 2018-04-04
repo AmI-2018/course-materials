@@ -9,6 +9,7 @@
 ## Ambient Intelligence
 * [Definitions of Ambient Intelligence](AmI-01-definition.pdf)
 * [AmI Design process (part 1)](AmI-02-design-process-part-1.pdf)
+* [AmI Design process (part 2)](AmI-02-design-process-part-2.pdf)
 
 ## Python
 * [Python basics](Python-01-basics.pdf)

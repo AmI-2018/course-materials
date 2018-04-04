@@ -11,3 +11,5 @@ Slides, exercises, and readings.
 ## [Labs](lab/)
 
 ## [Readings](reading/)
+
+## [Deliverables](deliverables/)
