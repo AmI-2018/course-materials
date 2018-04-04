@@ -12,3 +12,4 @@
 
 ## Python
 * [Python basics](Python-01-basics.pdf)
+* [Python intermediate](Python-02-intermediate.pdf)
