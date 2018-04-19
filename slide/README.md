@@ -17,3 +17,6 @@
 * [Databases in Python](Python-03-databases.pdf)
 * [Building web applications with Flask](Python-04-Flask.pdf)
 
+## Web design
+* [CSS and Bootstrap](Web-02-css-bootstrap.pdf)
+
