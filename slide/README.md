@@ -19,5 +19,5 @@
 
 ## Web design
 * [CSS and Bootstrap](Web-02-css-bootstrap.pdf)
-* [HTML and JSON](Web-03-json-http.pdf)
+* [HTTP and JSON](Web-03-json-http.pdf)
 
