@@ -5,3 +5,4 @@
 * [Introduction to Git and GitHub](R02-git-intro.pdf)
 * [Web Architecture and Technologies](R03-web-architecture-tech.pdf)
 * [HTTP and JSON](R04-http-json.pdf)
+* [jQuery](R05-jquery.pdf)
