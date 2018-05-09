@@ -6,3 +6,6 @@
 * [Using Databases with Python](Labs-04-python-Databases.pdf)
 * [Web Applications in Python with Flask](Labs-05-python-Flask.pdf)
 
+---
+
+* [Material available in the lab](Labs-00-materials.pdf)
